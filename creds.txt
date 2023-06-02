@@ -1,0 +1,6 @@
+smtp.gmail.com
+465
+imap.gmail.com
+993
+yourEmailhere@email.com
+yourPasswordHere
